@@ -1,17 +1,20 @@
 # login_form_validation
 
-A new Flutter project.
+This is a simple Flutter login form validation app that demonstrates Bloc state management using the flutter_bloc package. It's perfect for beginners who want to understand how to separate logic from UI in a clean and testable way using Bloc.
 
-## Getting Started
+🚀 Features
+Input login form validation using email and password
+Bloc for state management
+Clean separation of UI and business logic
+Beginner-friendly code structure
+🛠️ Tech Stack
+Flutter
+Dart
+flutter_bloc for state management
+📦 Dependencies
+Make sure you have the following dependencies in your pubspec.yaml:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# login_form_validation
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3 # or latest
